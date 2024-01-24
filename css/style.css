@@ -687,7 +687,7 @@ text-align: center;
   .prioritise{
     padding: 50px 0;
   }
-  ..prioritise__title{
+  .prioritise__title{
     font-size: 20px;
   }
   .prioritise__text{
